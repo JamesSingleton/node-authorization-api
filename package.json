@@ -1,0 +1,24 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "James Singleton",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
+    "mongoose": "^5.2.8",
+    "node-uuid": "^1.4.8",
+    "swagger-ui-express": "^3.0.10",
+    "sync-request": "^6.0.0"
+  }
+}
