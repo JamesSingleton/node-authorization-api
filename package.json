@@ -16,7 +16,7 @@
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
-    "mongoose": "^5.7.0",
+    "mongoose": "^5.7.1",
     "node-uuid": "^1.4.8",
     "swagger-ui-express": "^4.1.0",
     "sync-request": "^6.1.0"
